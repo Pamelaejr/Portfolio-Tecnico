@@ -1,9 +1,9 @@
 # Portfolio-Tecnico
 
 ## Curriculo :
-* Pamela Eduarda de Jesus Rodrigues
+ Pamela Eduarda de Jesus Rodrigues
 
-* Aluna da escola S
+ Aluna da escola S
 
 Habilidades:
 
@@ -13,14 +13,16 @@ Habilidades:
 * Inglês intermediário
 * Espanhol basico
 * Focada
-* Formação:
+
+Formação:
 
 * Cursando ensino médio
 * Cursando curso tecnico de tecnologia da informação
 * Curso de Photoshop
 * Curso de Adobe Ilustrator
 * Cursando pintura digital
-* Conhecimentos:
+
+Conhecimentos:
 
 * Java (basico)
 * Linux (basico)
