@@ -39,3 +39,4 @@ Conhecimentos:
 
 ## Logica Computacional
 
+[codigo1](LogicaComputacional/codigo1)
