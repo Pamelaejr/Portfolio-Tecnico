@@ -33,12 +33,12 @@ Conhecimentos:
 
 ## Fundamentos de T.I
 
-[exemplo1](FundamentosTI/exemplo1)
-[exemplo2](FundamentosTI/exemplo2)
-[exemplo1](FundamentosTI/exemplo3)
+* [exemplo1](FundamentosTI/exemplo1)
+* [exemplo2](FundamentosTI/exemplo2)
+* [exemplo1](FundamentosTI/exemplo3)
 
 ## Logica Computacional
 
-[codigo1](LogicaComputacional/codigo1)
-[codigo2](LogicaComputacional/codigo2)
-[codigo3](LogicaComputacional/codigo3)
+* [codigo1](LogicaComputacional/codigo1)
+* [codigo2](LogicaComputacional/codigo2)
+* [codigo3](LogicaComputacional/codigo3)
