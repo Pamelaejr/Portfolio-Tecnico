@@ -1,22 +1,18 @@
 CODIGO 1 
 #!/bin/bash
 #autor: Pamela Rodrigues
-#descriçao : pedir nome ao usuario e depois fazer a soma dos nomes e quando a pessoa digitar um algoritimo nulo (em branco )
- acaba o loop
- 
-i=0
-nome=" "
-    echo "digite b para parar loop"
-    while [[ $nome != "b" ]]
-    do
-        echo "digite um nome"
-        read nome
-        echo "seu nome é $nome"
-        vetor[$i]=nome
-        i=$((i+1))
-    done
-    tamanhov=$((${#vetor[@]} -1))
-echo "tamanho é : $tamanhov " 
+
+0 ls *.sh
+   1 vi extensao_sh.sh
+   2 chmod  u+x extensao_sh.sh
+   3 ./extensao_sh
+   4 vi maior_menor_igual.sh
+   5 chmod u+x maior_menor_igual.sh
+   6 ./maior_menor_igual.sh 7 2
+   7  vi posi_neg.sh
+   8 chmod u+x posi_neg.sh
+   9 ./ posi_neg.sh 0
+
 _______________________
 
 CODIGO 2 
