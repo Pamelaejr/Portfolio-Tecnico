@@ -33,8 +33,6 @@ Conhecimentos:
 
 ## Fundamentos de T.I
 
-https://github.com/Pamelaejr/Portfolio-Tecnico/blob/d172721df3f7eb4e1a297fb3d0c831dad9733eaf/FundamementosTI/Exemplosdecodigos
 
 ## Logica Computacional
 
-https://github.com/Pamelaejr/Portfolio-Tecnico/blob/c306aaa5106b543572689e7d6008f8838399691f/LogicaComputacional/Exemploscodigos
