@@ -1,0 +1,15 @@
+CODIGO 1 
+#!/bin/bash
+#autor: Pamela Rodrigues
+
+0 ls *.sh
+   1 vi extensao_sh.sh
+   2 chmod  u+x extensao_sh.sh
+   3 ./extensao_sh
+   4 vi maior_menor_igual.sh
+   5 chmod u+x maior_menor_igual.sh
+   6 ./maior_menor_igual.sh 7 2
+   7  vi posi_neg.sh
+   8 chmod u+x posi_neg.sh
+   9 ./ posi_neg.sh 0
+
