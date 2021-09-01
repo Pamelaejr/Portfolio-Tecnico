@@ -24,20 +24,35 @@ public static void main(String[] args) {
 
 CODIGO 2
 
-import javax.swing.JOptionPane;
-
-class Main {
-  public static void main(String[] args) {
-    int totalpassos = Integer.parseInt(JOptionPane.showInputDialog(null, "quantos passos faltam"));
-    int passos = 0;
-    while(passos < totalpassos){
-      passos++;
-      JOptionPane.showMessageDialog(null, "você deu "+passos+" passos");
+import java.util.Scanner;
+public class Main
+{
+    Scanner sc = new Scanner(System.in);
+    int n;
+    
+    public int digitaNumero(){
+        sc = new Scanner(System.in);
+        try{
+            n = sc.nextInt();
+        }
+        catch(Exception e){
+            System.out.println("Você digitou um valor inválido!\nTente novamente!");
+            digitaNumero();
+        }
+        return n;
     }
-    if (passos == totalpassos){
-      JOptionPane.showMessageDialog(null, "Você chegou no final");
-    }
-  }
+	public static void main(String[] args) {
+        Main pescaria = new Main();
+        pescaria.atividade();        
+	}
+  public void atividade(){
+    System.out.println("Digite seu nome!");
+    String nome = sc.next();
+    System.out.println("Digite seu ano de nascimento!");
+    int ano = digitaNumero();
+    int idade = 2021-ano;
+    System.out.println("Bem vindo "+nome+" Você tem "+idade+" anos!");
+  }	
 }
 -------------------------------------------------------------------------------------------------------------
 
