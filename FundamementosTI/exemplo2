@@ -1,0 +1,15 @@
+_______________________
+
+CODIGO 2 
+#!/bin/bash
+#autor : Pamela Rodrigues
+#descriçao: fazer um loop com 3 nomes ecolhidos usando o while
+
+nome=("jack" "maria" "ana")
+
+i=0
+while [ $i -le ${#nome[@]} ]
+do
+    echo "oi, eu sou ${nome[$i]}"
+    i=$((i+1))
+done 
