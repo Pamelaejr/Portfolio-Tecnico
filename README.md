@@ -33,6 +33,7 @@ Conhecimentos:
 
 ## Fundamentos de T.I
 
+[exemplo1](FundamentosTI/exemplo1)
 
 ## Logica Computacional
 
