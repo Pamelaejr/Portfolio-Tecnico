@@ -30,3 +30,7 @@ Conhecimentos:
 * Photoshop (avançado)
 * Adobe ilustrator(avançado)
 * Pintura digital (basico)
+
+## Fundamentos de T.I
+
+https://github.com/Pamelaejr/Portfolio-Tecnico/blob/d172721df3f7eb4e1a297fb3d0c831dad9733eaf/FundamementosTI/Exemplosdecodigos
