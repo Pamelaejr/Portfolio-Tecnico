@@ -40,3 +40,5 @@ Conhecimentos:
 ## Logica Computacional
 
 [codigo1](LogicaComputacional/codigo1)
+[codigo2](LogicaComputacional/codigo2)
+[codigo3](LogicaComputacional/codigo3)
