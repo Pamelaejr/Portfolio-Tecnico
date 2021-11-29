@@ -44,3 +44,5 @@ Conhecimentos:
 * [codigo3](LogicaComputacional/codigo3)
 
 ## 3° Trimestre
+
+* [atvdd_lista](LogicaComputacional/atvdd_lista)
