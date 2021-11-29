@@ -1,0 +1,22 @@
+import java.util.ArrayList;
+  class Main{
+public static void main(String[] args){
+ArrayList<>();
+String Nome = “Pamela Eduarda”;
+String Idade = “17”;
+String Turma = “2A”
+Informacoes_pessoais.add(nome);
+Informacoes_pessoais.add(idade);
+Informacoes_pessoais.add(turma);
+imprimeLista(Informacoes_pessoais);
+Informacoes_pessoais.remove(“17”);
+imprimeLista(Informacoes_pessoais);
+}
+public static void imprimeLista(ArrayList<String>
+Informacoes_pessoais){
+for (String s:Informacoes_pessoais){
+System.out.println (s);
+}
+System.out.println(“------------------------------------”);
+}
+}
