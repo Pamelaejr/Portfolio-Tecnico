@@ -47,3 +47,7 @@ Conhecimentos:
 
 * [atvdd_lista](LogicaComputacional/atvdd_lista)
 * [atvddpetshop.zip](LogicaComputacional/atvddpetshop.zip)
+
+## Terceiro ano
+
+Primeiro Trimestre:
