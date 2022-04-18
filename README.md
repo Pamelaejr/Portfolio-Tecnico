@@ -42,9 +42,6 @@ Conhecimentos:
 * [codigo1](LogicaComputacional/codigo1)
 * [codigo2](LogicaComputacional/codigo2)
 * [codigo3](LogicaComputacional/codigo3)
-
-## 3° Trimestre
-
 * [atvdd_lista](LogicaComputacional/atvdd_lista)
 * [atvddpetshop.zip](LogicaComputacional/atvddpetshop.zip)
 
