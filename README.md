@@ -49,3 +49,4 @@ Conhecimentos:
 
 Primeiro Trimestre:
 * [Sobrecarga de Metodos](TerceiroAno/Atividade1MdS.png)
+* [Exportação de tabela usando Where](TerceiroAno/AtvddBD.JPG)
