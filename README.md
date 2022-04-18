@@ -48,3 +48,4 @@ Conhecimentos:
 ## Terceiro ano
 
 Primeiro Trimestre:
+* .[https://github.com/Pamelaejr/Portfolio-Tecnico/blob/15acc5fff95733f9b764279d1f865952313c4f93/TerceiroAno/Atividade1MdS.png].(TerceiroAno/Atividade1MdS.png)
