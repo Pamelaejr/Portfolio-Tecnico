@@ -49,6 +49,10 @@ Conhecimentos:
 
 Primeiro Trimestre:
 * [Sobrecarga de Metodos](TerceiroAno/Atividade1MdS.png)
-* Escolhido pelo fato de ser uma ativdade que meu grupo teve uma grande dificuldade mas achamos muito importante
+* Escolhido pelo fato de ser uma ativdade que meu grupo teve uma grande dificuldade mas achamos muito importante.
+
 * [Exportação de tabela usando Where](TerceiroAno/AtvddBD.JPG)
+* Considero uma atividade pelo fato de ser sobre exportação de tabelas.
+
 * [Atividade Android Studio](AtvddMacaquinho.PNG)
+* Escolhi essa atividade pois foi a atividade que mais gostei de fazer do trimestre.
