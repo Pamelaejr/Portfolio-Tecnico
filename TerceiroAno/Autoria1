@@ -1,0 +1,18 @@
+create table escola_gastronomia(
+nome varchar,
+id int primary key,
+qtdd_alunos int,
+cursos varchar
+);
+create table alunos(
+nome varchar,
+cpf int primary key,
+curso_que_faz varchar
+);
+insert into escola_gastronomia
+values
+('Le Docerie', 10, 50, 'Confeiteiro Profissional'),
+('Fitcook', 20, 100, 'Cozinha funcional'),
+('Boa cozinha', 30, 250, 'Chef de cozinha Profissional');
+
+select * from escola_gastronomia where id = 20
