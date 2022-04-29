@@ -56,3 +56,4 @@ Primeiro Trimestre:
 
 * [Atividade Android Studio](AtvddMacaquinho.PNG)
 * Escolhi essa atividade pois foi a atividade que mais gostei de fazer do trimestre.
+* [Autoria 1](TerceiroAno/Autoria1)
