@@ -61,4 +61,8 @@ Primeiro Trimestre:
 Segundo trimestre:
 
 * [Unsmoke](https://github.com/lucasmalfatti/Unsmoke) <br>
+* Projeto sobre cigarro
 * [Ihelp](TerceiroAno/Ihelp.pdf)
+* Primeiras partes do ultimo projeto do ano
+* [NetJeans](TerceiroAno/NetJeans.pdf)
+* Projeto final de banco de dados
