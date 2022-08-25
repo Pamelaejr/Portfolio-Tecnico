@@ -61,4 +61,4 @@ Primeiro Trimestre:
 Segundo trimestre:
 
 * [Unsmoke](https://github.com/lucasmalfatti/Unsmoke) <br>
-* [Ihelp](Portfolio-Tecnico/TerceiroAno/Ihelp.pdf)
+* [Ihelp](TerceiroAno/Ihelp.pdf)
