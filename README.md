@@ -66,3 +66,5 @@ Segundo trimestre:
 * Primeiras partes do ultimo projeto do ano
 * [NetJeans](TerceiroAno/NetJeans.pdf)
 * Projeto final de banco de dados
+* [My Phone](TerceiroAno/MyIphone)
+* Autoria
