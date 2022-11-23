@@ -72,4 +72,4 @@ Segundo trimestre:
 Terceiro trimestre:
 
 * [Urna](TerceiroAno/Urna.zip)
-* Projeto sobre urnas eito em sala de aula
+* Projeto sobre urnas feito em sala de aula
