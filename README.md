@@ -68,3 +68,5 @@ Segundo trimestre:
 * Projeto final de banco de dados
 * [My Phone](TerceiroAno/MyIphone)
 * Autoria
+
+Terceiro trimestre:
